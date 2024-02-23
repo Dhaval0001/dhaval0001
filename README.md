@@ -22,7 +22,7 @@
 
 - 📫 How to reach me **dhavaltrivedi00.01@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/1dyM2mLKK1t5ZyDx4HYuV2JPVjPcmSiVo/view" target="_blank"><strong>Resume</strong></a>
+- 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1dyM2mLKK1t5ZyDx4HYuV2JPVjPcmSiVo/view)
 
 - ⚡ Fun fact: **By night, I moonlight as an AMV editor and level up in the gaming world 🎮.**
 
