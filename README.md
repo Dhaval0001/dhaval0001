@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/Dhaval0001?tab=repositories)**
 
-- 💬 Ask me about **Python, JavaScript, React, SQL, Git and Adobe Creative Cloud.**
+- 💬 Ask me about **Python, JavaScript, React, SQL and Git.**
 
 - 📫 How to reach me **dhavaltrivedi00.01@gmail.com**
 
