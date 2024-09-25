@@ -18,7 +18,7 @@
 
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/Dhaval0001?tab=repositories)**
 
-<!--- - 💬 Ask me about **Java, Python, Django, Unix, and Adobe Creative Cloud.** --->
+- 💬 Ask me about **Java, Python, Django, Unix, and Adobe Creative Cloud.**
 
 - 📫 How to reach me **dhavaltrivedi00.01@gmail.com**
 
