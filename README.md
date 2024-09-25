@@ -14,17 +14,17 @@
 
 - 🔭 I’m currently working on **Azure Sentinel (SIEM) Enhancement**
 
-- 🌱 I’m currently learning **Integration of AI with cybersecurity.**
+- 🌱 Aiming to **Integrate AI with cybersecurity**
 
 - 👨‍💻 All of my projects are available at **[My GitHub Repositories](https://github.com/Dhaval0001?tab=repositories)**
 
-<!--- - 💬 Ask me about **Java, Python, Django, Unix, and Adobe Creative Cloud.** --->
+<!--- - 💬 Ask me about **Python, JavaScript, React, SQL, Git and Adobe Creative Cloud.** --->
 
 - 📫 How to reach me **dhavaltrivedi00.01@gmail.com**
 
 - 📄 Know about my experiences: [**Resume**](https://drive.google.com/file/d/1dyM2mLKK1t5ZyDx4HYuV2JPVjPcmSiVo/view)
 
-- ⚡ Fun fact: **By night, I moonlight as an AMV editor and level up in the gaming world 🎮.**
+- ⚡ Fun fact: **By night, I moonlight as an AMV editor and level up in the gaming world 🎮**
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
